@@ -1,0 +1,111 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/G7twLVS/Virat-Kohli.jpg",
+      "author": "Virat Kohli",
+      "country": "India",
+      "Bowling": "Right Arm-Offbreak",
+      "category": "Batsman",
+      "rating": 4.5,
+      "handed_category": "Right-handed-Bat",
+      "price": 50000
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/ysG8tkm/shakib-al-hasan.jpg",
+      "author": "Sakib Al Hasan",
+      "country": "Bangladesh",
+      "Bowling": "Off Spin",
+      "category": "All-Rounder",
+      "rating": 4,
+      "handed_category": "Left-handed-Bat",
+      "price": 35000
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/wL1bHrq/Rohit-Sharma.jpg",
+      "author": "Rohit Sharma",
+      "country": "India",
+      "Bowling": "Off Spin",
+      "category": "Batsman",
+      "rating": 4.6,
+      "handed_category": "Right-handed-Bat",
+      "price": 45000
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/CVVyp9z/Babar-Azam.jpg",
+      "author": "Babar Azam",
+      "country": "Pakistan",
+      "Bowling": "Off Spin",
+      "category": "Batsman",
+      "rating": 4.4,
+      "handed_category": "Right-handed-Bat",
+      "price": 42000
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/zHwJ7kn/Steven-Smith.jpg",
+      "author": "Steven Smith",
+      "country": "Australia",
+      "Bowling": "Leg Spin",
+      "category": "Batsman",
+      "rating": 4.8,
+      "handed_category": "Right-handed-Bat",
+      "price": 30000
+    },
+    {
+      "id": 6,
+      "cover": "https://i.ibb.co.com/QkgLy1C/Mushfiqur-Rahim.jpg",
+      "author": "Mushfiqur Rahim",
+      "country": "Bangladesh",
+      "Bowling": "Off Spin",
+      "category": "Wicketkeeper",
+      "rating": 4.3,
+      "handed_category": "Right-handed-Bat",
+      "price": 20000
+    },
+    {
+      "id": 7,
+      "cover": "https://i.ibb.co.com/gtJ061b/gettyimages-1780354541-612x612.jpg",
+      "author": "Glenn Maxwell",
+      "country": "Australia",
+      "Bowling": "Off Spin",
+      "category": "All-Rounder",
+      "rating": 4.3,
+      "handed_category": "Left-handed-Bat",
+      "price": 350000
+    },
+    {
+      "id": 8,
+      "cover": "https://i.ibb.co.com/DtM99K5/Dhoni-2.jpg",
+      "author": "MS Dhoni",
+      "country": "India",
+      "Bowling": "Off Spin",
+      "category": "Wicketkeeper",
+      "rating": 4.6,
+      "handed_category": "Right-handed-Bat",
+      "price": 30000
+    },
+    {
+      "id": 9,
+      "cover": "https://i.ibb.co.com/0GVmbrp/Litton-Das.jpg",
+      "author": "Liton Das",
+      "country": "Bangladesh",
+      "category": "Batsman",
+      "rating": 4.6,
+      "handed_category": "Right-handed-Bat",
+      "price": 25000
+    },
+    {
+      "id": 10,
+      "cover": "https://i.ibb.co.com/B4MjyBm/Kane-Williamson.jpg",
+      "author": "Kane Williamson",
+      "country": "New Zealand",
+      "category": "Batsman",
+      "rating": 4.6,
+      "handed_category": "Right-handed-Bat",
+      "price": 40000
+    }
+  ]
+  
